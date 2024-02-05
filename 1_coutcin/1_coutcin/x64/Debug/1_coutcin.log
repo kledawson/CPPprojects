@@ -1,0 +1,3 @@
+﻿  1_coutcin.cpp
+C:\Users\dawso\source\repos\1_coutcin\1_coutcin\1_coutcin.cpp(11,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  1_coutcin.vcxproj -> C:\Users\dawso\source\repos\1_coutcin\x64\Debug\1_coutcin.exe
