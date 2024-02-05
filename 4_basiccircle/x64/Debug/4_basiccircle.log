@@ -1,0 +1,3 @@
+﻿  4_basiccircle.cpp
+C:\Users\dawso\source\repos\4_basiccircle\4_basiccircle.cpp(13,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  4_basiccircle.vcxproj -> C:\Users\dawso\source\repos\4_basiccircle\x64\Debug\4_basiccircle.exe
