@@ -1,0 +1,3 @@
+﻿  10_cointoss.cpp
+C:\Users\dawso\source\repos\10_cointoss\10_cointoss.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  10_cointoss.vcxproj -> C:\Users\dawso\source\repos\10_cointoss\x64\Debug\10_cointoss.exe
