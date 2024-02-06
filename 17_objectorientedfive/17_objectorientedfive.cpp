@@ -1,9 +1,3 @@
-/*
-Dawson Le
-02/22/2022
-Creating overloaded constructors.
-*/
-
 #include <iostream>
 #include <vector>
 #include <string>
