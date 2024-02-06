@@ -1,0 +1,3 @@
+﻿  15_objectorientedthree.cpp
+C:\Users\dawso\source\repos\15_objectorientedthree\15_objectorientedthree.cpp(116,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  15_objectorientedthree.vcxproj -> C:\Users\dawso\source\repos\15_objectorientedthree\x64\Debug\15_objectorientedthree.exe
