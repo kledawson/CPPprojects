@@ -1,0 +1,3 @@
+﻿  16_objectorientedfour.cpp
+C:\Users\dawso\source\repos\16_objectorientedfour\16_objectorientedfour.cpp(180,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  16_objectorientedfour.vcxproj -> C:\Users\dawso\source\repos\16_objectorientedfour\x64\Debug\16_objectorientedfour.exe
