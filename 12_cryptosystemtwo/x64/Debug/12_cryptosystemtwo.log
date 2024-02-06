@@ -1,0 +1,3 @@
+﻿  12_cryptosystemtwo.cpp
+C:\Users\dawso\source\repos\12_cryptosystemtwo\12_cryptosystemtwo.cpp(19,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  12_cryptosystemtwo.vcxproj -> C:\Users\dawso\source\repos\12_cryptosystemtwo\x64\Debug\12_cryptosystemtwo.exe
