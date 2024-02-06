@@ -1,9 +1,3 @@
-/*
-Dawson Le
-02/10/2022
-Creating objects in the stack and adding a friend function.
-*/
-
 #include <iostream>
 #include <vector>
 #include <string>
